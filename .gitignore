@@ -1,0 +1,7 @@
+/target
+/target/*
+**/*.rs.bk
+.DS_Store
+*.redb
+*.redb.lock
+.gemini
